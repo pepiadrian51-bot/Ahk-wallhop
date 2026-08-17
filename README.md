@@ -30,4 +30,7 @@ This script is fully optimized and compatible with **Windows 11**. Follow these 
 5. Paste the code into your Notepad file, save it, and change the file extension to `.ahk` if necessary.
 6. Double-click the file to run the script!
 
+(Or download the file directly from here, which is much better and original!)
+
+
 THIS CAN GET YOU BANNED BE CAREFULL!!!!
