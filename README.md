@@ -9,6 +9,9 @@ A simple AutoHotkey v2 script for Roblox Rivals to toggle keybind macros.
 ## Features & Controls
 
 * **`F1` - Dance 2 Clip**: Automatically opens your chat, types `/e dance2`, waits for the exact animation alignment, and perfectly triggers a sideways wall clip using simultaneous `W` + `Shift` inputs.
+* **`F2` - Wallhop Activation Toggle**: Enables or disables the structural wallhop mechanics. When toggled ON, it maps custom shortcuts (`Y`, `X`, `C`) to handle movement strings and unlocks specialized arrow-key camera flicks.
+* **`F9` - Smooth Circle-Wallhop Camera Mode**: Manually triggers a specialized camera handling mode. This is specifically designed for round/curved wallhopping where standard flicking wouldn't track the surface.
+* **`Left Ctrl (LCtrl)` - Continuous Fluid Rotation**: Active only when `F9` is enabled. Holding down the Left Control key slowly and steadily pans your camera to the left, allowing you to perfectly track curved structures while keeping your right hand completely free on the arrow keys for precision flicks.
 * **`F7` - Auto Clicker Optimizer & Process Manager**: 
   * **Toggle ON**: Instantly boots up your OP Auto Clicker, automatically updates its internal speed to an optimized `1ms` setup, activates the clicker via `F6`, and snaps your focus back inside the active Roblox game window.
   * **Toggle OFF**: Deactivates the clicker instantly and forcefully terminates the active background processes (`AutoClicker (1).exe` / `OPAutoClicker.exe`) to ensure a clean closing.
@@ -30,6 +33,5 @@ This script is fully optimized and compatible with **Windows 11**. Follow these 
 6. Double-click the file to run the script!
 
 *(You can download the original installer file `AutoHotkey_2.0.18_setup.exe` directly from this repository above, which is much better and original!).*
-
 
 THIS CAN GET YOU BANNED BE CAREFULL!!!!
