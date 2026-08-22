@@ -34,4 +34,7 @@ This script is fully optimized and compatible with **Windows 11**. Follow these 
 
 *(You can download the original installer file `AutoHotkey_2.0.18_setup.exe` directly from this repository above, which is much better and original!).*
 
+---
+**Adrianhain18 made this in roblox**
+
 THIS CAN GET YOU BANNED BE CAREFULL!!!!
