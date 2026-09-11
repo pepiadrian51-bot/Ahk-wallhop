@@ -1,6 +1,6 @@
 # Ahk-wallhop
 
-A simple AutoHotkey v2 script for Roblox Rivals to toggle keybind macros. Can get you banned but not 100%.
+A simple AutoHotkey v2 script for Roblox Rivals to toggle keybind macros. Can get you banned but not 100% sure.
 
 # Roblox Rivals Wallhop & Macro Script (AHK v2)
 
